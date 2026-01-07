@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Editor File\\GitHub\\C#_learn\\C#_learning\\",
+  "WorkspaceRootPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}|C#_learning\\C#_learning.csproj|d:\\editor file\\github\\c#_learn\\c#_learning\\c#_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}|C#_learning\\C#_learning.csproj|solutionrelative:c#_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35EC6A56-1C93-4168-98EE-520F636F8B5C}|00Using\\00Using.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\00using\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EC6A56-1C93-4168-98EE-520F636F8B5C}|00Using\\00Using.csproj|solutionrelative:00using\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#_learn\\C#_learning\\C#_learning\\Program.cs",
-              "RelativeDocumentMoniker": "C#_learning\\Program.cs",
-              "ToolTip": "D:\\Editor File\\GitHub\\C#_learn\\C#_learning\\C#_learning\\Program.cs",
-              "RelativeToolTip": "C#_learning\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\00Using\\Program.cs",
+              "RelativeDocumentMoniker": "00Using\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\00Using\\Program.cs",
+              "RelativeToolTip": "00Using\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T03:49:48.269Z",
+              "WhenOpened": "2026-01-07T04:44:58.154Z",
               "EditorCaption": ""
             }
           ]

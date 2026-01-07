@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_learning", "C#_learning\C#_learning.csproj", "{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wow", "wow\wow.csproj", "{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Using", "00Using\00Using.csproj", "{35EC6A56-1C93-4168-98EE-520F636F8B5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STD", "STD", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +21,22 @@ Global
 		{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EC6A56-1C93-4168-98EE-520F636F8B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EC6A56-1C93-4168-98EE-520F636F8B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EC6A56-1C93-4168-98EE-520F636F8B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EC6A56-1C93-4168-98EE-520F636F8B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
+		{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
+		{35EC6A56-1C93-4168-98EE-520F636F8B5C} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93E9F971-7CDC-4A75-BDE1-0E623975E757}

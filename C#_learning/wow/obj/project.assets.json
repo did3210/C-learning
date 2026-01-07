@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\C#_learning\\C#_learning.csproj",
-      "projectName": "C#_learning",
-      "projectPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\C#_learning\\C#_learning.csproj",
+      "projectUniqueName": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\wow\\wow.csproj",
+      "projectName": "wow",
+      "projectPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\wow\\wow.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\C#_learning\\obj\\",
+      "outputPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\wow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Editor File\\GitHub\\C#_learn\\C#_learning\\",
+  "WorkspaceRootPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}|C#_learning\\C#_learning.csproj|d:\\editor file\\github\\c#_learn\\c#_learning\\c#_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}|C#_learning\\C#_learning.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\c#_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97EBAFEE-C525-46AA-8F52-85A5DA78B6D5}|C#_learning\\C#_learning.csproj|solutionrelative:c#_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}|wow\\wow.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\wow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEA11E7-6B7A-45F4-A2E1-7B8BEFE4F088}|wow\\wow.csproj|solutionrelative:wow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#_learn\\C#_learning\\C#_learning\\Program.cs",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\C#_learning\\Program.cs",
               "RelativeDocumentMoniker": "C#_learning\\Program.cs",
-              "ToolTip": "D:\\Editor File\\GitHub\\C#_learn\\C#_learning\\C#_learning\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\C#_learning\\Program.cs",
               "RelativeToolTip": "C#_learning\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T03:49:48.269Z",
+              "WhenOpened": "2026-01-07T04:00:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\wow\\Program.cs",
+              "RelativeDocumentMoniker": "wow\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\wow\\Program.cs",
+              "RelativeToolTip": "wow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:16:06.35Z",
               "EditorCaption": ""
             }
           ]
