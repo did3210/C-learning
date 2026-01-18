@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
+// 02.네임스페이스에 대한 강의
 // 문법을 공부시 개념에 집중
 
 

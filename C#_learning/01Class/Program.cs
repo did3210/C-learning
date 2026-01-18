@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// 01.클래스에 대한 강의
 // 1.C#은 극단적인 객체지향 언어이. -> class부터 배워야 한다!
 // 2.class로 시작해서 class로 끝나는 언어.
 

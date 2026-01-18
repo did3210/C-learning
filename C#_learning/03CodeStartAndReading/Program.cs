@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//03.디버깅 방법 강의
+
 namespace _03CodeStartAndReading
 {
     internal class Program

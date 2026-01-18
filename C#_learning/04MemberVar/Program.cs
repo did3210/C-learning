@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+//04.멤버변수에 대한 강의
 //이번 예제는 클래스나 함수내에 들어갈 내용에 관한 예제이다.
 
 //개념: 플레이어가 존재한다.

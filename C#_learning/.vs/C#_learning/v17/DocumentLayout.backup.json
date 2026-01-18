@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1A6EDB5-50A8-461F-BEC1-69D75072E3E6}|03CodeStartAndReading\\03CodeStartAndReading.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\03codestartandreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A6EDB5-50A8-461F-BEC1-69D75072E3E6}|03CodeStartAndReading\\03CodeStartAndReading.csproj|solutionrelative:03codestartandreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F50A5B6-A12C-4297-9605-BCF0FC6DF171}|07ClassAccess\\07ClassAccess.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\07classaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F50A5B6-A12C-4297-9605-BCF0FC6DF171}|07ClassAccess\\07ClassAccess.csproj|solutionrelative:07classaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC1B582F-B09F-40FD-8626-15343EF336DE}|01Class\\01Class.csproj|D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\01class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1B582F-B09F-40FD-8626-15343EF336DE}|01Class\\01Class.csproj|solutionrelative:01class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61010302-417B-46D1-88E3-319DB205A693}|06LocalVar\\06LocalVar.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\06localvar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61010302-417B-46D1-88E3-319DB205A693}|06LocalVar\\06LocalVar.csproj|solutionrelative:06localvar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA147409-86D7-4B24-87FB-F9BAA7F942D9}|02NameSpace\\02NameSpace.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\02namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA147409-86D7-4B24-87FB-F9BAA7F942D9}|02NameSpace\\02NameSpace.csproj|solutionrelative:02namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D851534-9403-4D6F-AF10-95159E3F0068}|05MemeberFunc\\05MemeberFunc.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\05memeberfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D851534-9403-4D6F-AF10-95159E3F0068}|05MemeberFunc\\05MemeberFunc.csproj|solutionrelative:05memeberfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\03CodeStartAndReading\\Program.cs",
-              "RelativeDocumentMoniker": "03CodeStartAndReading\\Program.cs",
-              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\03CodeStartAndReading\\Program.cs",
-              "RelativeToolTip": "03CodeStartAndReading\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\07ClassAccess\\Program.cs",
+              "RelativeDocumentMoniker": "07ClassAccess\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\07ClassAccess\\Program.cs",
+              "RelativeToolTip": "07ClassAccess\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T09:02:04.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\02NameSpace\\Program.cs",
-              "RelativeDocumentMoniker": "02NameSpace\\Program.cs",
-              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\02NameSpace\\Program.cs",
-              "RelativeToolTip": "02NameSpace\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T04:19:20.434Z",
+              "WhenOpened": "2026-01-18T08:55:12.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\01Class\\Program.cs",
-              "RelativeDocumentMoniker": "01Class\\Program.cs",
-              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\01Class\\Program.cs",
-              "RelativeToolTip": "01Class\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\06LocalVar\\Program.cs",
+              "RelativeDocumentMoniker": "06LocalVar\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\06LocalVar\\Program.cs",
+              "RelativeToolTip": "06LocalVar\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T04:01:37.777Z",
+              "WhenOpened": "2026-01-18T04:56:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\05MemeberFunc\\Program.cs",
+              "RelativeDocumentMoniker": "05MemeberFunc\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\05MemeberFunc\\Program.cs",
+              "RelativeToolTip": "05MemeberFunc\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T04:45:13.076Z",
               "EditorCaption": ""
             }
           ]
