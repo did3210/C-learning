@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67809FD9-257B-4318-A9DB-B8E5349FBDA0}|09Operator\\09Operator.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\09operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67809FD9-257B-4318-A9DB-B8E5349FBDA0}|09Operator\\09Operator.csproj|solutionrelative:09operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46CF7810-5925-4550-A220-53A2A8843635}|08FuncEx\\08FuncEx.csproj|d:\\editor file\\github\\c#-learning\\c#_learning\\08funcex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46CF7810-5925-4550-A220-53A2A8843635}|08FuncEx\\08FuncEx.csproj|solutionrelative:08funcex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\09Operator\\Program.cs",
+              "RelativeDocumentMoniker": "09Operator\\Program.cs",
+              "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\09Operator\\Program.cs",
+              "RelativeToolTip": "09Operator\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:06:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\08FuncEx\\Program.cs",
               "RelativeDocumentMoniker": "08FuncEx\\Program.cs",
               "ToolTip": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\08FuncEx\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\07ClassAccess\\Program.cs",
               "RelativeDocumentMoniker": "07ClassAccess\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\06LocalVar\\Program.cs",
               "RelativeDocumentMoniker": "06LocalVar\\Program.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Editor File\\GitHub\\C#-learning\\C#_learning\\05MemeberFunc\\Program.cs",
               "RelativeDocumentMoniker": "05MemeberFunc\\Program.cs",
